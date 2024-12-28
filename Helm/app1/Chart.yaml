@@ -1,0 +1,5 @@
+apiVersion: v2
+name: app1
+description: A simple Hello World service that returns a static message.
+version: 0.1.0
+appVersion: "1.16.0"
